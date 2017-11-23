@@ -9,3 +9,5 @@ MHCpG is a sequence-based deep leraning ramework to predict DNA methylation site
 - Keras
 - Scipy
 
+# Data
+All the data used for training and testing can be downloaded from data file folder. It contains all the bed files of DNA methylation around all the chromosomes.
