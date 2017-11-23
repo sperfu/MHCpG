@@ -10,4 +10,7 @@ MHCpG is a sequence-based deep leraning ramework to predict DNA methylation site
 - Scipy
 
 # Data
-All the data used for training and testing can be downloaded from data file folder. It contains all the bed files of DNA methylation around all the chromosomes.
+- All the sequence data used for training and testing can be downloaded from data file folder. It contains all the bed files of DNA methylation around all the chromosomes.
+- The histone modification data we used can be downloaded from [here](http://hgdownload.cse.ucsc.edu/goldenpath/hg19/encodeDCC/wgEncodeBroadHistone/)
+- The MeDIP-seq data we used can be retrieved from [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56774)
+
