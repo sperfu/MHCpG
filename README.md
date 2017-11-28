@@ -14,3 +14,5 @@ MHCpG is a sequence-based deep leraning ramework to predict DNA methylation site
 - The histone modification data we used can be downloaded from [here](http://hgdownload.cse.ucsc.edu/goldenpath/hg19/encodeDCC/wgEncodeBroadHistone/)
 - The MeDIP-seq data we used can be retrieved from [here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE56774)
 
+# Usage
+- To implement the model, run bash file run_both_histone_medip.sh
